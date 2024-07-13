@@ -1,0 +1,1 @@
+sudo terraform output -json
